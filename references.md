@@ -1,1 +1,1 @@
-This is conflicting text. 
+# References
